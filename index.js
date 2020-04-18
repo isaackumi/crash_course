@@ -1,3 +1,5 @@
 console.log('Hello Git')
+const newMessage = "my new massage on git"
 
-const app = express()
+console.log(newMessage)
+const app =const express = require('express');
